@@ -3,7 +3,7 @@
     margin: 0;
 }
 body{
-    background: black !important;
+    background: #000 !important;
     color: #fff !important;
 }
 .services{
@@ -19,6 +19,7 @@ body{
 .fa{
     font-size: 40px !important;
     margin-bottom:  20px;
+    background: linear-gradient(to right,#ff105f,#ffad06);
     -webkit-background-clip: text;
     color: transparent;
 
